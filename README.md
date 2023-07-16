@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Prakash Kumar
 #### I am a prefinal year student at IIT Guwahati
 
-Skills: REACT / JS / HTML / CSS / PYTHON / C / C++ / NODE.JS* / EXPRESS,JS* 
+Skills: REACT / JS / HTML / CSS / PYTHON / C / C++ / Deep Learnig / TensorFlow / NODE.JS* / EXPRESS,JS* 
 
 
 
