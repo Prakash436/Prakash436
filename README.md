@@ -21,7 +21,6 @@ Skills: REACT / JS / Next.js / HTML / CSS / PYTHON / C / C++ / Deep Learnig / SQ
 
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prakash-kumar-iitg//) 
-
 [<img src='https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg' alt='linkedin' height='40'>](https://www.kaggle.com/prakash56)
 
 
