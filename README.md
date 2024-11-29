@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Prakash Kumar
 #### I am a final year student at IIT Guwahati
 -->
-# Prakash Kumar 👋
+# Hello, I am Prakash Kumar 👋
 
 Welcome to my GitHub! I'm a passionate **B.Tech. Chemical Engineering** student at **IIT Guwahati** with a keen interest in **Web Development**, **Data Science**, and **Machine Learning**. I love building real-world applications and working on projects that make an impact. 🚀
 
